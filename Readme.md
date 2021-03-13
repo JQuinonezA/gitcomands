@@ -8,4 +8,4 @@
 7. git commit --amend
 8. git checkout -b rama-jairtest
 9. git checkout master
-10. git 
+10. git merge rama-testing
